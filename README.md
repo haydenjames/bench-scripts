@@ -1,13 +1,13 @@
 Recently I tried to use a benchmark script I'd used previously for a quick check of VPS CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. [Add suggestions here](https://github.com/haydenjames/bench-scripts/issues).
 
-# Bench Scripts
+[**Bench Scripts**](https://github.com/haydenjames/bench-scripts#bench-scripts-1)
 * [Bench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#benchsh)
 * [Nench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#nench)
 * [VPSbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vpsbench)
 * [VPS Benchmark](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vps-benchmark)
 * [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench)
 
-# Bench Standalone Apps
+**Bench Standalone Apps**
 * [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
 * [Fio](https://github.com/haydenjames/bench-scripts/blob/master/README.md#fio)
 * [Sysbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#sysbench)
@@ -159,7 +159,7 @@ https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hard
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
 
 
-# bench-apps
+# Bench Standalone Apps
 
 ### UnixBench
 https://github.com/kdlucas/byte-unixbench - UnixBench is the original BYTE UNIX benchmark suite, updated and revised by many people over the years.
