@@ -1,3 +1,5 @@
+Recently I tried to use a benchmark script I'd used previously for a quick check of CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. Add suggestions here.
+
 # Bench Scripts
 * [Bench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#benchsh)
 * [Nench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#nench)
