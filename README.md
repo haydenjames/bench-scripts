@@ -169,4 +169,4 @@ https://serverkite.github.io - A aeronautic benchmarking script that handles spe
     $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
 
 
-_Test sever used: [StackLinux Mini VPS](https://my.stacklinux.com/cart.php)_
+_Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
