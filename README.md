@@ -6,6 +6,7 @@ Recently I tried to use a benchmark script I'd used previously for a quick check
 * [VPSbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vpsbench)
 * [VPS Benchmark](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vps-benchmark)
 * [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench)
+* [Bench-sh-2](https://github.com/haydenjames/bench-scripts/blob/master/README.md#bench-sh-2)
 
 **Bench Command line Apps**
 * [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
