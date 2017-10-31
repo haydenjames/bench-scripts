@@ -1,4 +1,25 @@
-# bench-scripts
+# Bench Scripts
+* [Bench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#benchsh)
+* [Nench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#nench)
+* [VPSbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vpsbench)
+* [VPS Benchmark](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vps-benchmark)
+* [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench)
+
+# Bench Standalone Apps
+* [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
+* [Fio](https://github.com/haydenjames/bench-scripts/blob/master/README.md#fio)
+* [Sysbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#sysbench)
+* [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
+* [Bonnie](https://github.com/haydenjames/bench-scripts/blob/master/README.md#bonnie)
+* [S](https://github.com/haydenjames/bench-scripts/blob/master/README.md#s)
+* [Phoronix Test Suite](https://github.com/haydenjames/bench-scripts/blob/master/README.md#phoronix-test-suite)
+* [Geekbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#geekbench-4)
+* [vdbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vdbench)
+* [IOzone](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iozone)
+* [Iometer](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iomter)
+* [Interbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#interbench)
+
+# bench Scripts
 
 ![alt bench.sh screenshot](https://haydenjames.io/wp-content/uploads/2017/10/bench_sh_screenshot.png)
 
