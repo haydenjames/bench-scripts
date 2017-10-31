@@ -163,10 +163,10 @@ https://bench.sh - view system information and test the network, disk of your Li
     ...
     ----------------------------------------------------------------------
 
-## serverkite - bench.sh 
-https://serverkite.github.io - A aeronautic benchmarking script that handles speed test from 30+ datacenters and 20+ vps providers + I/O (Input / Output), ping, traceroute tests.
+## Linux Bench
+https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hardinfo, Unixbench 5.1.3, c-ray 1.1, STREAM, OpenSSL, sysbench (CPU), crafty, redis, NPB, NAMD, and 7-zip benchmarks.
 
-    $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
+    $ wget https://raw.githubusercontent.com/STH-Dev/linux-bench/master/linux-bench.sh && chmod +x linux-bench.sh && ./linux-bench.sh
 
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
