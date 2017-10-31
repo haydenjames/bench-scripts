@@ -1,24 +1,5 @@
 # bench-scripts
 
-## vpsbench
-https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
-
-    $ bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)  
-
-    Benching I/O ... OK
-    Benching CPU. Bzipping 25MB file ... OK
-    Benching inbound network. Downloading 100MB file ... OK
-    Share at https://github.com/mgutz/vpsbench/wiki/VPS-Hosts
-    CPU model:  Common KVM processor
-    Number of cores: 6
-    CPU frequency:  2399.998 MHz
-    Total amount of RAM: 3011 MB
-    Total amount of swap:  MB
-    System uptime:   11 days, 2:04,       
-    I/O speed:  910 MB/s
-    Bzip 25MB: 4.22s
-    Download 100MB file: 107MB/s
-
 ## nench
 https://github.com/n-st/nench - A script loosely based on the established freevps.us/bench.sh. 
 
@@ -68,6 +49,25 @@ https://github.com/n-st/nench - A script loosely based on the established freevp
 
     No IPv6 connectivity detected
     -------------------------------------------------
+    
+## vpsbench
+https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
+
+    $ bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)  
+
+    Benching I/O ... OK
+    Benching CPU. Bzipping 25MB file ... OK
+    Benching inbound network. Downloading 100MB file ... OK
+    Share at https://github.com/mgutz/vpsbench/wiki/VPS-Hosts
+    CPU model:  Common KVM processor
+    Number of cores: 6
+    CPU frequency:  2399.998 MHz
+    Total amount of RAM: 3011 MB
+    Total amount of swap:  MB
+    System uptime:   11 days, 2:04,       
+    I/O speed:  910 MB/s
+    Bzip 25MB: 4.22s
+    Download 100MB file: 107MB/s
 
 ## serverkite - bench.sh 
 https://serverkite.github.io - A aeronautic benchmarking script that handles speed test from 30+ datacenters and 20+ vps providers + I/O (Input / Output), ping, traceroute tests.
