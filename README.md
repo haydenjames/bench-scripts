@@ -7,6 +7,7 @@ Recently I tried to use a benchmark script I'd used previously for a quick check
 * [VPS Benchmark](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vps-benchmark)
 * [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench)
 * [Bench-sh-2](https://github.com/haydenjames/bench-scripts/blob/master/README.md#bench-sh-2)
+* [unixbench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbenchsh)
 
 **Bench Command line Apps**
 * [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
@@ -160,6 +161,13 @@ https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hard
 https://github.com/hidden-refuge/bench-sh-2 - System Info + Speedtest IPv4 + Drive Speed.
 
     $ wget https://raw.githubusercontent.com/hidden-refuge/bench-sh-2/master/bench.sh && chmod +x bench.sh && ./bench.sh
+
+### unixbench.sh
+https://github.com/teddysun/across/blob/master/unixbench.sh - Auto install unixbench and test script. (https://teddysun.com/245.html)
+
+    wget --no-check-certificate https://github.com/teddysun/across/raw/master/unixbench.sh
+    chmod +x unixbench.sh
+    ./unixbench.sh
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
 
