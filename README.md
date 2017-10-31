@@ -167,3 +167,6 @@ https://bench.sh - view system information and test the network, disk of your Li
 https://serverkite.github.io - A aeronautic benchmarking script that handles speed test from 30+ datacenters and 20+ vps providers + I/O (Input / Output), ping, traceroute tests.
 
     $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
+
+
+_Test sever used: [StackLinux Mini VPS](https://my.stacklinux.com/cart.php)_
