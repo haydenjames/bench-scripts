@@ -3,11 +3,11 @@
 ## nench
 https://github.com/n-st/nench - A script loosely based on the established freevps.us/bench.sh. 
 
-**Command:**
+Command:
 
     $ (curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log  
 
-**Example result:**
+Example result:
 
     ------------------------------------------------
     nench.sh v2017.06.01 -- https://git.io/nench.sh
