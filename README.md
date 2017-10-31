@@ -75,7 +75,7 @@ https://serverkite.github.io - A aeronautic benchmarking script that handles spe
     $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
     
 ## VPS Benchmark
-http://busylog.net/vps-benchmark/ - 
+http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
 
     wget http://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash
      __                          
@@ -165,6 +165,6 @@ https://bench.sh - view system information and test the network, disk of your Li
     ----------------------------------------------------------------------
     Node Name                       IPv4 address            Download Speed
     CacheFly                        205.234.175.175         106MB/s       
-    continued...
+    ...
     ----------------------------------------------------------------------
 
