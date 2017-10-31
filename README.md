@@ -1,6 +1,6 @@
 # bench-scripts
 
-![alt bench.sh screenshot]("https://haydenjames.io/wp-content/uploads/2017/10/bench_sh_screenshot.png" bench.sh screenshot)
+![alt bench.sh screenshot]("https://haydenjames.io/wp-content/uploads/2017/10/bench_sh_screenshot.png")
 
 ## bench.sh
 https://bench.sh - view system information and test the network, disk of your Linux server.
