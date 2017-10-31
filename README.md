@@ -5,8 +5,6 @@ https://github.com/n-st/nench - A script loosely based on the established freevp
 
     $ (curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log  
 
-
-
     ------------------------------------------------
     nench.sh v2017.06.01 -- https://git.io/nench.sh
     benchmark timestamp:    2017-10-31 03:38:08 UTC
@@ -57,7 +55,6 @@ https://github.com/mgutz/vpsbench - A script to run simple and comprehensive ben
 
     $ bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)  
     
-
     Benching I/O ... OK
     Benching CPU. Bzipping 25MB file ... OK
     Benching inbound network. Downloading 100MB file ... OK
