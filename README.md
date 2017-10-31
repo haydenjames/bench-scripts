@@ -42,13 +42,7 @@ https://github.com/n-st/nench - A script loosely based on the established freevp
     your IPv4:    x.x.x.x
 
     Cachefly CDN:         82.72 MiB/s
-    Leaseweb (NL):        25.23 MiB/s
-    Softlayer DAL (US):   6.94 MiB/s
-    Online.net (FR):      21.97 MiB/s
-    OVH BHS (CA):         97.26 MiB/s
-
-    No IPv6 connectivity detected
-    -------------------------------------------------
+    ...
     
 ## vpsbench
 https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
@@ -100,15 +94,7 @@ http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
     Doing 1024 bit private rsa's for 10s: 59315 1024 bit private RSA's in 10.00s
     Doing 1024 bit public rsa's for 10s: 902191 1024 bit public RSA's in 10.00s
     Doing 2048 bit private rsa's for 10s: 7758 2048 bit private RSA's in 10.00s
-    Doing 2048 bit public rsa's for 10s: 287012 2048 bit public RSA's in 10.00s
-    Doing 3072 bit private rsa's for 10s: 2857 3072 bit private RSA's in 10.00s
-    Doing 3072 bit public rsa's for 10s: 136506 3072 bit public RSA's in 10.00s
-    Doing 4096 bit private rsa's for 10s: 1267 4096 bit private RSA's in 10.01s
-    Doing 4096 bit public rsa's for 10s: 78697 4096 bit public RSA's in 10.00s
-    Doing 7680 bit private rsa's for 10s: 139 7680 bit private RSA's in 10.05s
-    Doing 7680 bit public rsa's for 10s: 23533 7680 bit public RSA's in 10.00s
-    Doing 15360 bit private rsa's for 10s: 26 15360 bit private RSA's in 10.29s
-    Doing 15360 bit public rsa's for 10s: 6285 15360 bit public RSA's in 10.00s
+    ...
     OpenSSL 1.1.0f  25 May 2017
     built on: reproducible build, date unspecified
     options:bn(64,64) rc4(8x,char) des(int) aes(partial) blowfish(ptr) 
@@ -117,10 +103,7 @@ http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
     rsa  512 bits 0.000062s 0.000004s  16096.1 240389.0
     rsa 1024 bits 0.000169s 0.000011s   5931.5  90219.1
     rsa 2048 bits 0.001289s 0.000035s    775.8  28701.2
-    rsa 3072 bits 0.003500s 0.000073s    285.7  13650.6
-    rsa 4096 bits 0.007901s 0.000127s    126.6   7869.7
-    rsa 7680 bits 0.072302s 0.000425s     13.8   2353.3
-    rsa 15360 bits 0.395769s 0.001591s      2.5    628.5
+    ...
     -----------------------------
     Disk seek rate test (ioping)....
     
