@@ -154,3 +154,40 @@ https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hard
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
 
+# bench-apps
+
+## UnixBench
+https://github.com/kdlucas/byte-unixbench - UnixBench is the original BYTE UNIX benchmark suite, updated and revised by many people over the years.
+
+## fio
+https://github.com/axboe/fio - Flexible I/O Tester
+
+## sysbench
+https://github.com/akopytov/sysbench - Scriptable database and system performance benchmark
+
+## HDparm
+https://hdparm.sourceforge.io/ - get/set ATA/SATA drive parameters under Linux
+
+## Bonnie
+http://www.textuality.com/bonnie/ - Bonnie is a benchmark which measures the performance of Unix file system operations. Bonnie is concerned with identifying bottlenecks.
+
+## S
+https://github.com/Algodev-github/S - Small collection of programs to measure storage I/O performance.
+
+## Phoronix Test Suite
+https://github.com/phoronix-test-suite/phoronix-test-suite - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
+
+## Geekbench 4
+http://support.primatelabs.com/kb/geekbench/geekbench-4-command-line-tool - This tool allows you to use Geekbench 4 from a command prompt and automate it with shell scripts or batch files.
+
+## Vdbench
+http://www.oracle.com/technetwork/server-storage/vdbench-downloads-1901681.html - Vdbench is a command line utility specifically created to help engineers and customers generate disk I/O workloads to be used for validating storage performance and storage data integrity. 
+
+## IOzone
+http://www.iozone.org - is a filesystem benchmark tool. The benchmark generates and measures a variety of file operations.
+
+## Iomter
+http://www.iometer.org - Iometer is an I/O subsystem measurement and characterization tool for single and clustered systems.
+
+## Interbench
+https://github.com/ckolivas/interbench - Linux Interactivity Benchmark
