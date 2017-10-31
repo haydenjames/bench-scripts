@@ -20,14 +20,15 @@
 * [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
 * [DD](https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/) (external guide)
 
+
 # bench Scripts
 
-## bench.sh
+### bench.sh
 https://bench.sh - view system information and test the network, disk of your Linux server.
 
 ![alt bench.sh screenshot](https://haydenjames.io/wp-content/uploads/2017/10/bench_sh_screenshot.png)
 
-## nench
+### nench
 https://github.com/n-st/nench - A script loosely based on the established freevps.us/bench.sh. 
 
     $ (curl -s wget.racing/nench.sh | bash; curl -s wget.racing/nench.sh | bash) 2>&1 | tee nench.log  
@@ -71,7 +72,7 @@ https://github.com/n-st/nench - A script loosely based on the established freevp
     Cachefly CDN:         82.72 MiB/s
     ...
     
-## vpsbench
+### vpsbench
 https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
 
     $ bash <(wget --no-check-certificate -O - https://raw.github.com/mgutz/vpsbench/master/vpsbench)  
@@ -90,7 +91,7 @@ https://github.com/mgutz/vpsbench - A script to run simple and comprehensive ben
     Bzip 25MB: 4.22s
     Download 100MB file: 107MB/s
     
-## VPS Benchmark
+### VPS Benchmark
 http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
 
     $ wget http://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash
@@ -145,7 +146,7 @@ http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
     /dev/sda1:
     Timing O_DIRECT disk reads: 3624 MB in  3.00 seconds = 1207.86 MB/sec
     
-## Linux Bench
+### Linux Bench
 https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hardinfo, Unixbench 5.1.3, c-ray 1.1, STREAM, OpenSSL, sysbench (CPU), crafty, redis, NPB, NAMD, and 7-zip benchmarks.
 
     $ wget https://raw.githubusercontent.com/STH-Dev/linux-bench/master/linux-bench.sh && chmod +x linux-bench.sh && ./linux-bench.sh
@@ -153,40 +154,41 @@ https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hard
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
 
+
 # bench-apps
 
-## UnixBench
+### UnixBench
 https://github.com/kdlucas/byte-unixbench - UnixBench is the original BYTE UNIX benchmark suite, updated and revised by many people over the years.
 
-## fio
+### fio
 https://github.com/axboe/fio - Flexible I/O Tester
 
-## sysbench
+### sysbench
 https://github.com/akopytov/sysbench - Scriptable database and system performance benchmark
 
-## HDparm
+### HDparm
 https://hdparm.sourceforge.io/ - get/set ATA/SATA drive parameters under Linux
 
-## Bonnie
+### Bonnie
 http://www.textuality.com/bonnie/ - Bonnie is a benchmark which measures the performance of Unix file system operations. Bonnie is concerned with identifying bottlenecks.
 
-## S
+### S
 https://github.com/Algodev-github/S - Small collection of programs to measure storage I/O performance.
 
-## Phoronix Test Suite
+### Phoronix Test Suite
 https://github.com/phoronix-test-suite/phoronix-test-suite - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
-## Geekbench 4
+### Geekbench 4
 http://support.primatelabs.com/kb/geekbench/geekbench-4-command-line-tool - This tool allows you to use Geekbench 4 from a command prompt and automate it with shell scripts or batch files.
 
-## Vdbench
+### Vdbench
 http://www.oracle.com/technetwork/server-storage/vdbench-downloads-1901681.html - Vdbench is a command line utility specifically created to help engineers and customers generate disk I/O workloads to be used for validating storage performance and storage data integrity. 
 
-## IOzone
+### IOzone
 http://www.iozone.org - is a filesystem benchmark tool. The benchmark generates and measures a variety of file operations.
 
-## Iomter
+### Iomter
 http://www.iometer.org - Iometer is an I/O subsystem measurement and characterization tool for single and clustered systems.
 
-## Interbench
+### Interbench
 https://github.com/ckolivas/interbench - Linux Interactivity Benchmark
