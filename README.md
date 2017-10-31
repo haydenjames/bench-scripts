@@ -1,5 +1,33 @@
 # bench-scripts
 
+## bench.sh
+https://bench.sh - view system information and test the network, disk of your Linux server.
+
+    $ wget -qO- bench.sh | bash
+    
+    ----------------------------------------------------------------------
+    CPU model            : Common KVM processor
+    Number of cores      : 6
+    CPU frequency        : 2399.998 MHz
+    Total size of Disk   : 28.5 GB (2.2 GB Used)
+    Total amount of Mem  : 3011 MB (631 MB Used)
+    Total amount of Swap : 3068 MB (0 MB Used)
+    System uptime        : 11 days, 3 hour 10 min
+    Load average         : 0.01, 0.11, 0.09
+    OS                   : Debian GNU/Linux 9
+    Arch                 : x86_64 (64 Bit)
+    Kernel               : 4.9.0-4-amd64
+    ----------------------------------------------------------------------
+    I/O speed(1st run)   : 872 MB/s
+    I/O speed(2nd run)   : 1.2 GB/s
+    I/O speed(3rd run)   : 1.2 GB/s
+    Average I/O speed    : 1109.9 MB/s
+    ----------------------------------------------------------------------
+    Node Name                       IPv4 address            Download Speed
+    CacheFly                        205.234.175.175         106MB/s       
+    ...
+    ----------------------------------------------------------------------
+
 ## nench
 https://github.com/n-st/nench - A script loosely based on the established freevps.us/bench.sh. 
 
@@ -118,34 +146,6 @@ http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
     /dev/sda1:
     Timing O_DIRECT disk reads: 3624 MB in  3.00 seconds = 1207.86 MB/sec
     
-## bench.sh
-https://bench.sh - view system information and test the network, disk of your Linux server.
-
-    $ wget -qO- bench.sh | bash
-    
-    ----------------------------------------------------------------------
-    CPU model            : Common KVM processor
-    Number of cores      : 6
-    CPU frequency        : 2399.998 MHz
-    Total size of Disk   : 28.5 GB (2.2 GB Used)
-    Total amount of Mem  : 3011 MB (631 MB Used)
-    Total amount of Swap : 3068 MB (0 MB Used)
-    System uptime        : 11 days, 3 hour 10 min
-    Load average         : 0.01, 0.11, 0.09
-    OS                   : Debian GNU/Linux 9
-    Arch                 : x86_64 (64 Bit)
-    Kernel               : 4.9.0-4-amd64
-    ----------------------------------------------------------------------
-    I/O speed(1st run)   : 872 MB/s
-    I/O speed(2nd run)   : 1.2 GB/s
-    I/O speed(3rd run)   : 1.2 GB/s
-    Average I/O speed    : 1109.9 MB/s
-    ----------------------------------------------------------------------
-    Node Name                       IPv4 address            Download Speed
-    CacheFly                        205.234.175.175         106MB/s       
-    ...
-    ----------------------------------------------------------------------
-
 ## Linux Bench
 https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hardinfo, Unixbench 5.1.3, c-ray 1.1, STREAM, OpenSSL, sysbench (CPU), crafty, redis, NPB, NAMD, and 7-zip benchmarks.
 
