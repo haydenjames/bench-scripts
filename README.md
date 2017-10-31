@@ -68,11 +68,6 @@ https://github.com/mgutz/vpsbench - A script to run simple and comprehensive ben
     I/O speed:  910 MB/s
     Bzip 25MB: 4.22s
     Download 100MB file: 107MB/s
-
-## serverkite - bench.sh 
-https://serverkite.github.io - A aeronautic benchmarking script that handles speed test from 30+ datacenters and 20+ vps providers + I/O (Input / Output), ping, traceroute tests.
-
-    $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
     
 ## VPS Benchmark
 http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
@@ -168,3 +163,7 @@ https://bench.sh - view system information and test the network, disk of your Li
     ...
     ----------------------------------------------------------------------
 
+## serverkite - bench.sh 
+https://serverkite.github.io - A aeronautic benchmarking script that handles speed test from 30+ datacenters and 20+ vps providers + I/O (Input / Output), ping, traceroute tests.
+
+    $ git clone https://github.com/ServerKite/bench.sh.git && cd bench.sh && chmod +x bench.sh && bash bench.sh
