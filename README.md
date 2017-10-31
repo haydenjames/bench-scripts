@@ -155,6 +155,10 @@ https://github.com/STH-Dev/linux-bench - Linux-Bench is a sscript that runs hard
 
     $ wget https://raw.githubusercontent.com/STH-Dev/linux-bench/master/linux-bench.sh && chmod +x linux-bench.sh && ./linux-bench.sh
 
+### bench-sh-2
+https://github.com/hidden-refuge/bench-sh-2 - System Info + Speedtest IPv4 + Drive Speed.
+
+    $ wget https://raw.githubusercontent.com/hidden-refuge/bench-sh-2/master/bench.sh && chmod +x bench.sh && ./bench.sh
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
 
