@@ -20,7 +20,7 @@ Recently I tried to use a benchmark script I'd used previously for a quick check
 * [Iometer](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iomter)
 * [Interbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#interbench)
 * [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
-* [DD](https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/) (external guide)
+* [DD](https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/)
 
 
 # bench Scripts
