@@ -9,7 +9,6 @@
 * [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
 * [Fio](https://github.com/haydenjames/bench-scripts/blob/master/README.md#fio)
 * [Sysbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#sysbench)
-* [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
 * [Bonnie](https://github.com/haydenjames/bench-scripts/blob/master/README.md#bonnie)
 * [S](https://github.com/haydenjames/bench-scripts/blob/master/README.md#s)
 * [Phoronix Test Suite](https://github.com/haydenjames/bench-scripts/blob/master/README.md#phoronix-test-suite)
@@ -18,6 +17,8 @@
 * [IOzone](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iozone)
 * [Iometer](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iomter)
 * [Interbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#interbench)
+* [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
+* [DD](https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/) (external guide)
 
 # bench Scripts
 
