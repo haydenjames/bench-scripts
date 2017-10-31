@@ -72,7 +72,7 @@ https://github.com/mgutz/vpsbench - A script to run simple and comprehensive ben
 ## VPS Benchmark
 http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
 
-    wget http://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash
+    $ wget http://busylog.net/FILES2DW/busytest.sh -O - -o /dev/null | bash
      __                          
     |__)    _  | _  _     _  _|_ 
     |__)|_|_)\/|(_)(_).  | )(-|_ 
