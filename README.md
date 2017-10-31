@@ -1,7 +1,5 @@
 # bench-scripts
 
-![alt](https://i.imgur.com/Pv0GbR0.png)
-
 ## vpsbench
 https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
 
