@@ -1,6 +1,6 @@
-![alt](https://i.imgur.com/Pv0GbR0.png)
-
 # bench-scripts
+
+![alt](https://i.imgur.com/Pv0GbR0.png)
 
 ## vpsbench
 https://github.com/mgutz/vpsbench - A script to run simple and comprehensive benchmarks on CPU and IO performance.
@@ -119,7 +119,7 @@ http://busylog.net/vps-benchmark/ - Benchmark disk, cpu and network.
     OpenSSL 1.1.0f  25 May 2017
     built on: reproducible build, date unspecified
     options:bn(64,64) rc4(8x,char) des(int) aes(partial) blowfish(ptr) 
-    compiler: gcc -DDSO_DLFCN -DHAVE_DLFCN_H -DNDEBUG -DOPENSSL_THREADS -DOPENSSL_NO_STATIC_ENGINE -DOPENSSL_PIC -DOPENSSL_IA32_SSE2 -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_MONT5 -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DRC4_ASM -DMD5_ASM -DAES_ASM -DVPAES_ASM -DBSAES_ASM -DGHASH_ASM -DECP_NISTZ256_ASM -DPADLOCK_ASM -DPOLY1305_ASM -DOPENSSLDIR="\"/usr/lib/ssl\"" -DENGINESDIR="\"/usr/lib/x86_64-linux-gnu/engines-1.1\"" 
+    compiler: gcc -DDSO_DLFCN -DHAVE_DLFCN_H -DNDEBUG -DOPENSSL_THREADS -DOPENSSL_NO_STATIC_ENGINE...
                   sign    verify    sign/s verify/s
     rsa  512 bits 0.000062s 0.000004s  16096.1 240389.0
     rsa 1024 bits 0.000169s 0.000011s   5931.5  90219.1
