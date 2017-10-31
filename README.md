@@ -169,7 +169,7 @@ https://github.com/teddysun/across/blob/master/unixbench.sh - Auto install unixb
     chmod +x unixbench.sh
     ./unixbench.sh
 
-_Test sever used for all tests = [StackLinux Mini VPS](https://my.stacklinux.com/cart.php?gid=1)_
+_Test sever used for all tests = [StackLinux Mini VPS](https://stacklinux.com)_
 
 
 # Bench Command line Apps
