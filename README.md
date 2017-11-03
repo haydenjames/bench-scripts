@@ -1,6 +1,6 @@
 Recently I tried to use a benchmark script I'd used previously for a quick check of VPS CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. [Add suggestions here](https://github.com/haydenjames/bench-scripts/issues).
 
-**Use at your own risk! Always verify scripts before running. If you find something broken or any other issues please notifiy me.**
+**Use at your own risk! Always verify before running. If you find any scripts broken or other issues please [notifiy me](https://haydenjames.io/contact-me/).**
 
 **Bench Scripts**
 * [Bench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#benchsh)
