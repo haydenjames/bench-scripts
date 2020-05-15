@@ -1,4 +1,4 @@
-For a quick check of VPS CPU, Disk and Network, I wanted to keep a list of scripts and tools for benchmarking Linux servers. Copied from: [blog post](https://haydenjames.io/linux-benchmark-scripts-tools/)
+For quick bench of VPS. CPU, SSD and Network, I wanted to keep a list of scripts and tools for benchmarking Linux servers.
 
 **Use at your own risk! Always verify before running. If you find any broken scripts or issues please notifiy me.**
 
@@ -213,3 +213,5 @@ http://www.iometer.org - Iometer is an I/O subsystem measurement and characteriz
 
 ### Interbench
 https://github.com/ckolivas/interbench - Linux Interactivity Benchmark
+
+Copied from: [blog post](https://haydenjames.io/linux-benchmark-scripts-tools/)
