@@ -1,6 +1,4 @@
-I originally posted this here: https://haydenjames.io/linux-benchmark-scripts-tools/
-
-Also see:
+* I originally posted here: https://haydenjames.io/linux-benchmark-scripts-tools/
 * [60 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [90 Commands frequently used by Linux Sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 
