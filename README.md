@@ -4,6 +4,7 @@ Also see:
 * [60 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [90 Commands frequently used by Linux Sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 
+Pasted via my blog haydenjames.io:
 Recently I tried to use a benchmark script I'd used previously for a quick check of VPS CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. [Submit suggestions](https://haydenjames.io/contact-me/).
 
 **Bench Scripts**
