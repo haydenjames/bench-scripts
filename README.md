@@ -1,4 +1,4 @@
-* I originally posted here: https://haydenjames.io/linux-benchmark-scripts-tools/
+* I originally posted this here: https://haydenjames.io/linux-benchmark-scripts-tools/
 
 Also see:
 * [60 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
