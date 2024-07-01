@@ -1,12 +1,12 @@
-* I originally posted this here: https://haydenjames.io/linux-benchmark-scripts-tools/
+* I originally posted this here: https://linuxblog.io/linux-benchmark-scripts-tools/
 
 Also see:
-* [60 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
-* [90 Commands frequently used by Linux Sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
+* [60 Linux Networking commands and scripts](https://linuxblog.io/linux-networking-commands-scripts/)
+* [90 Commands frequently used by Linux Sysadmins](https://linuxblog.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 
-**Pasted via my blog haydenjames.io:**
+**Pasted via my blog linuxblog.io:**
 
-Recently I tried to use a benchmark script I'd used previously for a quick check of VPS CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. [Submit suggestions](https://haydenjames.io/contact-me/).
+Recently I tried to use a benchmark script I'd used previously for a quick check of VPS CPU, Disk and Network. However, it's no longer online. As a result I wanted to keep a list of scripts and tools for benchmarking Linux servers. [Submit suggestions](https://linuxblog.io/contact-me/).
 
 **Bench Scripts**
 * [Bench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#benchsh)
@@ -30,7 +30,7 @@ Recently I tried to use a benchmark script I'd used previously for a quick check
 * [Iometer](https://github.com/haydenjames/bench-scripts/blob/master/README.md#iomter)
 * [Interbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#interbench)
 * [HDparm](https://github.com/haydenjames/bench-scripts/blob/master/README.md#hdparm)
-* [DD](https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/)
+* [DD](https://linuxblog.io/web-host-doesnt-want-read-benchmark-vps/)
 
 
 # bench Scripts
@@ -40,7 +40,7 @@ https://bench.sh - view system information and test the network, disk of your Li
 
     $ wget -qO- bench.sh | bash
 
-![alt bench.sh screenshot](https://haydenjames.io/wp-content/uploads/2017/10/bench_sh_screenshot.png)
+![alt bench.sh screenshot](https://linuxblog.io/wp-content/uploads/2017/10/bench_sh_screenshot.png)
 
 ### nench
 https://github.com/n-st/nench - A script loosely based on the established freevps.us/bench.sh. 
@@ -218,5 +218,5 @@ http://www.iometer.org - Iometer is an I/O subsystem measurement and characteriz
 ### Interbench
 https://github.com/ckolivas/interbench - Linux Interactivity Benchmark
 
-**Use at your own risk! Always verify before running. If you find any broken scripts or issues please [notifiy me](https://haydenjames.io/contact-me/).**
+**Use at your own risk! Always verify before running. If you find any broken scripts or issues please [notifiy me](https://linuxblog.io/contact-me/).**
 
