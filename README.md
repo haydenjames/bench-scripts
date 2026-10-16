@@ -16,6 +16,7 @@ Recently I tried to use a benchmark script I'd used previously for a quick check
 * [Linux Bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#linux-bench)
 * [Bench-sh-2](https://github.com/haydenjames/bench-scripts/blob/master/README.md#bench-sh-2)
 * [unixbench.sh](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbenchsh)
+* [vhr-bench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#vhr-bench)
 
 **Bench Command line Apps**
 * [Unixbench](https://github.com/haydenjames/bench-scripts/blob/master/README.md#unixbench)
@@ -176,6 +177,11 @@ https://github.com/teddysun/across/blob/master/unixbench.sh - Auto install unixb
     wget --no-check-certificate https://github.com/teddysun/across/raw/master/unixbench.sh
     chmod +x unixbench.sh
     ./unixbench.sh
+
+### vhr-bench
+https://github.com/vpshostreview/vhr-vps-benchmark - Processor, memory and disk (sysbench and fio) in about a minute. Sends nothing anywhere unless you add an upload token.
+
+    $ curl -fsSL https://github.com/vpshostreview/vhr-vps-benchmark/releases/latest/download/vhr-bench | bash -s -- --cleanup
 
 _Test sever used for all tests = [StackLinux Mini VPS](https://stacklinux.com)_
 
